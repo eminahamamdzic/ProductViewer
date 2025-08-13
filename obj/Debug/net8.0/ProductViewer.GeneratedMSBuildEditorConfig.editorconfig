@@ -1,0 +1,165 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProductViewer
+build_property.RootNamespace = ProductViewer
+build_property.ProjectDir = C:\Users\emina\OneDrive\Desktop\projekat\ProductViewer\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\emina\OneDrive\Desktop\projekat\ProductViewer
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/Aktivnost/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWt0aXZub3N0XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/Aktivnost/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWt0aXZub3N0XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/Aktivnost/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWt0aXZub3N0XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/Aktivnost/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWt0aXZub3N0XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/Aktivnost/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWt0aXZub3N0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/Izvjestaj/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXp2amVzdGFqXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/Izvjestaj/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXp2amVzdGFqXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/Izvjestaj/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXp2amVzdGFqXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/Izvjestaj/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXp2amVzdGFqXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/Izvjestaj/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXp2amVzdGFqXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/Korisnik/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29yaXNuaWtcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/Korisnik/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29yaXNuaWtcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/Korisnik/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29yaXNuaWtcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/Korisnik/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29yaXNuaWtcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/Korisnik/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29yaXNuaWtcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/Proizvod/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvaXp2b2RcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/Proizvod/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvaXp2b2RcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/Proizvod/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvaXp2b2RcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/Proizvod/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvaXp2b2RcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/Proizvod/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvaXp2b2RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/TipKategorije/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwS2F0ZWdvcmlqZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/TipKategorije/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwS2F0ZWdvcmlqZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/TipKategorije/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwS2F0ZWdvcmlqZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/TipKategorije/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwS2F0ZWdvcmlqZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/TipKategorije/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwS2F0ZWdvcmlqZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emina/OneDrive/Desktop/projekat/ProductViewer/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-hqjsgo0kmc
