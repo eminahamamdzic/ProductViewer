@@ -22,7 +22,7 @@ namespace ProductViewer.Models
 
         [Required]
 
-        [Display(Name = "Kategorija")]
+        [EnumDataType(typeof(Kategorija))]
         public Kategorija Kategorija { get; set; }
 
         public string? SlikaUrl { get; set; }

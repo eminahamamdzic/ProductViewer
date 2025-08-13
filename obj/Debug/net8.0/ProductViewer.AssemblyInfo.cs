@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProductViewer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71d08e04ab3277f36b0e37a05267fa98e2bfd155")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1dcf2d323b5057c157389365dc7d513f43c490d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProductViewer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProductViewer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
