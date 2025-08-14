@@ -1,12 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using ProductViewer.Data;
 using ProductViewer.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace ProductViewer.Controllers
 {
@@ -60,16 +61,27 @@ namespace ProductViewer.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("KorisnikID,Ime")] Korisnik korisnik)
+        public async Task<IActionResult> Create(Korisnik korisnik)
         {
             if (ModelState.IsValid)
             {
+                // Provjeri da Ime nije null
+                if (string.IsNullOrEmpty(korisnik.Ime))
+                {
+                    ModelState.AddModelError("Ime", "Ime je obavezno.");
+                    return View(korisnik);
+                }
+
+                // Dodaj korisnika direktno u bazu
                 _context.Add(korisnik);
                 await _context.SaveChangesAsync();
+
                 return RedirectToAction(nameof(Index));
             }
             return View(korisnik);
         }
+
+
 
         // GET: Korisnik/Edit/5
         public async Task<IActionResult> Edit(int? id)

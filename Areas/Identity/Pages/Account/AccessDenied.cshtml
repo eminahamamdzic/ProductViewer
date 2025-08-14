@@ -1,0 +1,19 @@
+﻿@page
+@model AccessDeniedModel
+@{
+    ViewData["Title"] = "Pristup odbijen";
+}
+
+@{
+    <style>
+        .centered-header {
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+}
+
+<header class="centered-header">
+    <h1 class="text-danger">@ViewData["Title"]</h1>
+    <p class="text-danger">Nemate pravo pristupa ovoj funkcionalnosti.</p>
+</header>
